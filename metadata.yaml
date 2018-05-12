@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3939
     wikipedia: http://en.wikipedia.org/wiki/Alice_Duer_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33985#Manslaughter
 gutenberg_issued: '2010-09-23'
 gutenberg_type: Text
 identifiers:
